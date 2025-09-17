@@ -42,4 +42,4 @@ Me destaco en la **resolución de problemas**, la **optimización de procesos** 
 
 ## 📫 Contacto
 - 📧 **axel.dp44@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/axel-de-pietro-16670020a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/axeldepietro)
