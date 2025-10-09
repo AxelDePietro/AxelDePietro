@@ -17,7 +17,8 @@ Mi objetivo es diseñar y desarrollar **aplicaciones seguras, escalables y mante
 
 **Frameworks y Librerías (Backend)**  
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)  
 ![JPA](https://img.shields.io/badge/-JPA-FF6F00?style=flat-square)  
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square)  
@@ -26,8 +27,7 @@ Mi objetivo es diseñar y desarrollar **aplicaciones seguras, escalables y mante
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 **Conceptos Clave y Herramientas**  
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)  
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square)  
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![POO](https://img.shields.io/badge/-POO-8A2BE2?style=flat-square)  
 ![Arquitectura en capas](https://img.shields.io/badge/-ArquitecturaEnCapas-008080?style=flat-square)  
 
