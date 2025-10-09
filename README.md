@@ -47,3 +47,6 @@ Me destaco en la **resolución de problemas**, la **optimización de procesos** 
 - ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxelDePietro&show_icons=true&theme=transparent&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelDePietro&layout=compact&theme=transparent&hide_border=true) 
+## 🏆 Trofeos de GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=AxelDePietro&theme=transparent&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
