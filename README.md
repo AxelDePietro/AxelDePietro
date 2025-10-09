@@ -18,7 +18,7 @@ Mi objetivo es diseñar y desarrollar **aplicaciones seguras, escalables y mante
 **Frameworks y Librerías (Backend)**  
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)  
 ![JPA](https://img.shields.io/badge/-JPA-FF6F00?style=flat-square)  
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square)  
