@@ -43,3 +43,7 @@ Me destaco en la **resolución de problemas**, la **optimización de procesos** 
 ## 📫 Contacto
 - 📧 **axel.dp44@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/axeldepietro)
+
+- ## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxelDePietro&show_icons=true&theme=transparent&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelDePietro&layout=compact&theme=transparent&hide_border=true) 
